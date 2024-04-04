@@ -1,0 +1,9 @@
+Flask
+flask-cors
+googletrans==4.0.0rc1
+numpy
+keras
+// keras==3.0.5
+tensorflow
+Pillow
+gtts

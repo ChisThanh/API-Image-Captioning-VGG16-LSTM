@@ -1,0 +1,6 @@
+__pycache__
+tmp/*
+output_en.mp3
+output_vi.mp3
+vgg16_model.keras
+vgg16_model.zip
